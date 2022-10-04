@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mount Kinabalu 2022
+permalink: /2022/Mount-Kinabalu
 ---
 
 
